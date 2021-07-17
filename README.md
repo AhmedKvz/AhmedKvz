@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AhmedKvz
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning React and Flutter
-- 💞️ I’m looking for internship and real life projects
+- 🌱 I’m currently learning React
+- 💞️ I’m looking for an internship 
 - 📫 How to reach me kavazovic.ahmed@icloud.com
 
 <!---
