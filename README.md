@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhmedKvz
 - 👀 I’m Front-End Developer
-- 🌱 I’m currently learning React
+- My work is connected to GitLab projects that are private
 - 💞 / https://github.com/AhmedKvz?tab=repositories
 - 📫 How to reach me kavazovic.ahmed@icloud.com
 ≈<!---
